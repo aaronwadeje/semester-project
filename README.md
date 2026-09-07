@@ -18,3 +18,13 @@ The current purpose of this repository is to establish the development environme
 ## Development
 
 The project will be developed throughout the semester using Git and GitHub for version control.
+
+## Current Progress
+
+Week 1:
+- Created the project repository
+- Set up Git version control
+- Created the initial project structure
+- Added the starter webpage
+
+
